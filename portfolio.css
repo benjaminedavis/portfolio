@@ -65,19 +65,23 @@
 }
 
 .appcontainer {
-  /*width: 500px;
-  height: 320px;
-  white-space: normal;
-  overflow: hidden;
-  text-overflow: ellipsis;*/
-}
-
-.appimage {
-  margin: 15px 0px 15px 0px;
+  margin-left: 10px;
 }
 
 .appname {
   font-size: 65px
+}
+
+.appurl {
+  font-size: 30px
+}
+
+.appurl:hover {
+  text-decoration: none;
+}
+
+.appimage {
+  margin: 15px 0px 15px 0px;
 }
 
 .appshortdesc {
