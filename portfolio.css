@@ -1,0 +1,93 @@
+#allinfo {
+  /*display: none;*/
+  text-align: center;
+  margin: 20px 0px 0px 0px;
+}
+
+  #name {
+    font-size: 80px;
+  }
+
+  #title {
+    margin-top: -8px;
+    font-size: 22px;
+  }
+
+  .address h3 {
+    font-size: 16px;
+  }
+
+  #city {
+    margin: 35px 0px 0px 0px;
+  }
+
+
+  .linksect {
+    margin: 20px 0px 0px 0px;
+  }
+
+  #linkedin {
+    height:40px;
+    width:100px;
+  }
+
+  #github {
+    height:40px;
+    width:100px;
+  }
+
+  #project1 {
+    float:left;
+    padding: 10px 10px 10px 10px;
+    margin: 20px 40px 20px 40px;
+    width: auto;
+  }
+
+  #project2 {
+    float: left;
+    padding: 10px 10px 10px 10px;
+    margin: 20px 40px 20px 40px;
+    width: auto;
+  }
+
+  #project3 {
+    float: left;
+    padding: 10px 10px 10px 10px;
+    margin: 20px 40px 20px 40px;
+    width: auto;
+  }
+
+.links a {
+  height: 10px;
+}
+
+.wrapper {
+}
+
+.appcontainer {
+  /*width: 500px;
+  height: 320px;
+  white-space: normal;
+  overflow: hidden;
+  text-overflow: ellipsis;*/
+}
+
+.appimage {
+  margin: 15px 0px 15px 0px;
+}
+
+.appname {
+  font-size: 65px
+}
+
+.appshortdesc {
+  font-size: 20px
+}
+
+.applongdesc {
+  font-size: 14px
+}
+
+.appimages {
+  margin: 5px 5px 5px 5px;
+}
