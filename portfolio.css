@@ -21,7 +21,6 @@
     margin: 35px 0px 0px 0px;
   }
 
-
   .linksect {
     margin: 20px 0px 0px 0px;
   }
@@ -37,47 +36,53 @@
   }
 
   #project1 {
-    float:left;
+    /*float:left;
     padding: 10px 10px 10px 10px;
     margin: 20px 40px 20px 40px;
-    width: auto;
+    width: auto;*/
   }
 
   #project2 {
-    float: left;
+    /*float: left;
     padding: 10px 10px 10px 10px;
     margin: 20px 40px 20px 40px;
-    width: auto;
+    width: auto;*/
   }
 
   #project3 {
-    float: left;
+    /*float: left;
     padding: 10px 10px 10px 10px;
     margin: 20px 40px 20px 40px;
-    width: auto;
+    width: auto;*/
   }
 
-.links a {
-  height: 10px;
+.appnamelink {
 }
 
-.wrapper {
-}
-
-.appcontainer {
-  margin-left: 10px;
+.apptotaldesc {
 }
 
 .appname {
   font-size: 65px
 }
 
-.appurl {
+.appurl1, .appurl2, .appurl3 {
   font-size: 30px
 }
 
-.appurl:hover {
+.appurl1:hover {
   text-decoration: none;
+  color: #F89406;
+}
+
+.appurl2:hover {
+  text-decoration: none;
+  color: #62C462;
+}
+
+.appurl3:hover {
+  text-decoration: none;
+  color: #5BC0DE;
 }
 
 .appimage {
