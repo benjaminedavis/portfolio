@@ -1,3 +1,9 @@
+#fullpage {
+  visibility: hidden;
+  opacity: 0.0;
+  position: relative;
+}
+
 #allinfo {
   /*display: none;*/
   text-align: center;
