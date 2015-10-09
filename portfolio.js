@@ -4,7 +4,7 @@ if (Meteor.isClient) {
     $('#fullpage')
       .css('visibility', 'visible')
       .animate({opacity: 1.0, top: '40px'}, 4000);
-});
+  });
 
   Template.hello.helpers({
 
