@@ -1,10 +1,7 @@
 
 if (Meteor.isClient) {
   $(document).ready(function() {
-    $('#allinfo')
-      .css('visibility', 'visible')
-      .animate({opacity: 1.0, top: '40px'}, 4000);
-    $('#project3')
+    $('#fullpage')
       .css('visibility', 'visible')
       .animate({opacity: 1.0, top: '40px'}, 4000);
   });
