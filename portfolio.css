@@ -1,6 +1,3 @@
-.address h3 {
-    font-size: 16px;
-}
 
 .allinfo {
   text-align: center;
@@ -39,29 +36,10 @@
   font-size: 30px
 }
 
-/*.appurl1:hover {
-  text-decoration: none;
-  color: #F89406;
-}
-
-.appurl2:hover {
-  text-decoration: none;
+  /*color: #F89406;
   color: #62C462;
-}
-
-.appurl3:hover {
-  text-decoration: none;
   color: #5BC0DE;
-}
-
-.appurl4:hover {
-  text-decoration: none;
-  color: #EE5F5B;
-}*/
-
-.city {
-    margin: 35px 0px 0px 0px;
-}
+  color: #EE5F5B;*/
 
 .fullpage {
   visibility: hidden;
@@ -69,25 +47,34 @@
   position: relative;
 }
 
-.github {
+
+.topaddress {
+    margin: 35px 0px 0px 0px
+}
+
+.topaddress h3 {
+    font-size: 16px;
+}
+
+.topgithub {
     height:40px;
     width:110px;
 }
 
-.linksect {
+.toplinkedin {
+    height:40px;
+    width:110px;
+}
+
+.toplinksect {
     margin: 20px 0px 0px 0px;
 }
 
-.linkedin {
-    height:40px;
-    width:110px;
-}
-
-.name {
+.topname {
     font-size: 75px;
 }
 
-.title {
+.toptitle {
     margin-top: -8px;
     font-size: 20px;
 }
