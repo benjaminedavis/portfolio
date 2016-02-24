@@ -1,9 +1,9 @@
 
 if (Meteor.isClient) {
   $(document).ready(function() {
-    $('#fullpage')
+    $('.fullpage')
       .css('visibility', 'visible')
-      .animate({opacity: 1.0, top: '40px'}, 4000);
+      .animate({opacity: 1.0, top: '40px'}, 3000);
   });
 
   Template.hello.helpers({

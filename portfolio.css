@@ -1,61 +1,45 @@
-#fullpage {
-  visibility: hidden;
-  opacity: 0.0;
-  position: relative;
-}
-
-#allinfo {
-  /*display: none;*/
-  text-align: center;
-  margin: 20px 0px 0px 0px;
-}
-
-#name {
-    font-size: 75px;
-}
-
-#title {
-    margin-top: -8px;
-    font-size: 20px;
-}
-
 .address h3 {
     font-size: 16px;
 }
 
-#city {
-    margin: 35px 0px 0px 0px;
+.allinfo {
+  text-align: center;
+  margin: 20px 0px 0px 0px;
 }
 
-.linksect {
-    margin: 20px 0px 0px 0px;
+.appbuttons {
+  margin-top: 10px;
 }
 
-#linkedin {
-    height:40px;
-    width:110px;
+.appimages {
+  margin: 5px 0px 5px 0px;
 }
 
-#github {
-    height:40px;
-    width:110px;
-}
-
-.appnamelink {
-}
-
-.apptotaldesc {
+.applongdesc {
+  font-size: 14px
 }
 
 .appname {
   font-size: 65px
 }
 
-.appurl1, .appurl2, .appurl3 {
+.appname4 h1{
+  color: #EE5F5B
+}
+
+.appprog {
+  margin: 5px 0px 0px 0px;
+}
+
+.appshortdesc {
+  font-size: 20px
+}
+
+.appurl1, .appurl2, .appurl3, .appurl4 {
   font-size: 30px
 }
 
-.appurl1:hover {
+/*.appurl1:hover {
   text-decoration: none;
   color: #F89406;
 }
@@ -70,22 +54,40 @@
   color: #5BC0DE;
 }
 
-.appshortdesc {
-  font-size: 20px
+.appurl4:hover {
+  text-decoration: none;
+  color: #EE5F5B;
+}*/
+
+.city {
+    margin: 35px 0px 0px 0px;
 }
 
-.applongdesc {
-  font-size: 14px
+.fullpage {
+  visibility: hidden;
+  opacity: 0.0;
+  position: relative;
 }
 
-.appimages {
-  margin: 5px 0px 5px 0px;
+.github {
+    height:40px;
+    width:110px;
 }
 
-.appprog {
-  margin: 5px 0px 0px 0px;
+.linksect {
+    margin: 20px 0px 0px 0px;
 }
 
-.appbutts {
-  margin-top: 10px;
+.linkedin {
+    height:40px;
+    width:110px;
+}
+
+.name {
+    font-size: 75px;
+}
+
+.title {
+    margin-top: -8px;
+    font-size: 20px;
 }
