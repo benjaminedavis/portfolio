@@ -11,7 +11,24 @@
 }
 
 .appname {
-  font-size: 65px
+  font-size: 5em;
+  margin-top: 35px;
+}
+
+.appname1 h1 {
+  color: #F89406
+}
+
+.appname2 h1 {
+  color: #80CDCC
+}
+
+.appname3 h1 {
+  color: #28BB9C
+}
+
+.appname4 h1 {
+  color: #C31D85
 }
 
 .appprog {
@@ -19,21 +36,60 @@
 }
 
 .appshortdesc {
-  font-size: 20px
+  font-size: 2.7em
 }
 
-.appurl1 {
-  font-size: 30px
+.appurl {
+  font-size: 2.5em
+}
+
+.container {
+  margin: 20px 0px 0px 0px
 }
 
 .footertext {
   margin: 20px 0px 10px 0px
 }
 
-.fullpage {
+/*.fullpage {
   visibility: hidden;
   opacity: 0.0;
   position: relative;
+}*/
+
+/*.topinfo {
+  visibility: hidden;
+  opacity: 0.0;
+  position: relative;
+}*/
+
+.topaddress {
+  visibility: hidden;
+  opacity: 0.0;
+  position: relative;
+}
+
+.topnametitle {
+  visibility: hidden;
+  opacity: 0.0;
+  position: relative;
+}
+
+.toplinksect {
+  visibility: hidden;
+  opacity: 0.0;
+  position: relative;
+}
+
+.projects {
+  visibility: hidden;
+  margin-right: 40px;
+  opacity: 0.0;
+  position: relative;
+}
+
+.progress-pink {
+  background-color: #C31D85
 }
 
 .topaddress {
@@ -60,7 +116,7 @@
 }
 
 .toplinksect {
-    margin: 20px 0px 0px 0px;
+    margin: 25px 0px 20px 0px;
 }
 
 .topname {
