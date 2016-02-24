@@ -1,9 +1,3 @@
-
-.allinfo {
-  text-align: center;
-  margin: 20px 0px 0px 0px;
-}
-
 .appbuttons {
   margin-top: 10px;
 }
@@ -20,10 +14,6 @@
   font-size: 65px
 }
 
-.appname4 h1{
-  color: #EE5F5B
-}
-
 .appprog {
   margin: 5px 0px 0px 0px;
 }
@@ -32,14 +22,13 @@
   font-size: 20px
 }
 
-.appurl1, .appurl2, .appurl3, .appurl4 {
+.appurl1 {
   font-size: 30px
 }
 
-  /*color: #F89406;
-  color: #62C462;
-  color: #5BC0DE;
-  color: #EE5F5B;*/
+.footertext {
+  margin: 20px 0px 10px 0px
+}
 
 .fullpage {
   visibility: hidden;
@@ -47,18 +36,22 @@
   position: relative;
 }
 
-
 .topaddress {
     margin: 35px 0px 0px 0px
 }
 
 .topaddress h3 {
-    font-size: 16px;
+    font-size: 26px;
 }
 
 .topgithub {
     height:40px;
     width:110px;
+}
+
+.topinfo {
+  text-align: center;
+  margin: 20px 0px 20px 0px;
 }
 
 .toplinkedin {
@@ -71,10 +64,10 @@
 }
 
 .topname {
-    font-size: 75px;
+    font-size: 120px;
 }
 
 .toptitle {
     margin-top: -8px;
-    font-size: 20px;
+    font-size: 32px;
 }
